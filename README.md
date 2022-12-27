@@ -1,2 +1,5 @@
 # nsg-llp.com.my
-shopifyholdingsmalaysia@nsgllp-my.onmicrosoft.com
+shopifyholdingsmalaysia@nsgllp-my.com
+nsgcorpgroups@nsgllp-my.com
+nsgholdingcorporate@nsgllp-my.com
+
